@@ -1,4 +1,4 @@
-# SpringMVC
+# SpringMVC简单使用例子
 
 1、web.xml中配置SpringMVC<br />
 2、创建SpringMVC配置文件<br />
